@@ -1,0 +1,6 @@
+{
+  "name": "교사 마음 쉼터 - 온기",
+  "description": "지친 선생님의 마음을 따뜻하게 보듬고 위로하는 힐링과 공감의 쉼터",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
